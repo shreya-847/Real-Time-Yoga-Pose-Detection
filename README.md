@@ -17,6 +17,8 @@ The `yoga.py` script includes the complete implementation of the yoga pose detec
 The above is the Data Training of the model.
 
 ![Picture2](https://github.com/user-attachments/assets/7bfc5f6f-963a-4424-a4fd-4a1f631bbce5)
+
+
 ![Picture3](https://github.com/user-attachments/assets/4675411a-0f3f-4553-8f85-3b4647873b29)
 
 
